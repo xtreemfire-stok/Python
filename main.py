@@ -76,3 +76,18 @@
 #     print("yes")
 # else:
 #     print("no")
+
+
+"""Задача №4"""
+
+n = int(input())
+m = int(input())
+k = int(input())
+
+# i = n // m
+# a = n * m // k
+
+if n * m // k >= k and k >= 2:
+    print("no")
+else:
+    print("yes")
