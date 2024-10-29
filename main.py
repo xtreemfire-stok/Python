@@ -51,23 +51,28 @@
 
 # s = int(input())
 
+# a = s // 3 * 2 // 4
+# c = a
+# a = c
+# b = (a + c) * 2
 
 
+# print(a, b, c)
 
 
 
 """Задача №3"""
 
-a = input()
+# a = input()
 
-a1 = int(a[0])
-b1 = int(a[1])
-c1 = int(a[2])
-a2 = int(a[3])
-b2 = int(a[4])
-c2 = int(a[5])
+# a1 = int(a[0])
+# b1 = int(a[1])
+# c1 = int(a[2])
+# a2 = int(a[3])
+# b2 = int(a[4])
+# c2 = int(a[5])
 
-if  a1 + b1 + c1 == a2 + b2 + c2:
-    print("yes")
-else:
-    print("no")
+# if  a1 + b1 + c1 == a2 + b2 + c2:
+#     print("yes")
+# else:
+#     print("no")
