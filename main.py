@@ -87,7 +87,7 @@ k = int(input())
 # i = n // m
 # a = n * m // k
 
-if n * m // k >= k and k >= 2:
+if n * m // k >= k:
     print("no")
 else:
     print("yes")
